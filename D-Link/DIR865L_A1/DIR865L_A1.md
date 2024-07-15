@@ -2,7 +2,7 @@
 # DIR865L_A1 has a Hardcoded Password
 
 ## DIR865L_A1 
-version:V1.0.0 B24
+version:DIR865L_A1_firmware_100b24
 
 ## Description:
 D-LINK DIR-865L_FIRMWARE_1.00B24 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session.
