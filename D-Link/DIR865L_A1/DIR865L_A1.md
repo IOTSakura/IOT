@@ -13,10 +13,10 @@ you may download it from : https://support.dlink.com/resource/products/DIR-865L/
 
 ## Analyse：
 In file telnetd.sh has telnetd -l /usr/sbin/login -u Alphanetworks:$image_sign -i br0 &
-![](./img/2.png) 
+![](https://github.com/IOTSakura/IOT/blob/main/D-Link/img/2.png) 
 
 Then in /etc/config/image_sign has hardcoded passord：
-![](./img/3.png)
+![](https://github.com/IOTSakura/IOT/blob/main/D-Link/img/3.png)
 
 login:
-![](./img/4.png)
+![](https://github.com/IOTSakura/IOT/blob/main/D-Link/img/4.png)
